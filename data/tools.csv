@@ -1,0 +1,6 @@
+employee_id,tool_name,license_cost,used,last_active_days
+101,Notion Enterprise,1200,No,18
+102,Power BI Pro,800,Yes,2
+103,Tableau Creator,1500,No,25
+104,Jira Premium,900,Yes,1
+105,Figma Pro,1000,No,20

@@ -1,0 +1,5 @@
+action_id,employee_id,action_type,risk_level,status,approver
+A001,101,Focus Intervention,Low,Approved,System
+A002,101,License Deactivation,Medium,Pending,Ops Manager
+A003,103,Task Reassignment,High,Pending,Delivery Manager
+A004,105,Focus Intervention,Low,Approved,System

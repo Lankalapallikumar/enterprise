@@ -1,0 +1,6 @@
+employee_id,employee_name,team,idle_hours,hourly_cost,utilization_pct
+101,Asha,Engineering,3,300,62
+102,Ravi,Operations,1,280,84
+103,Neha,Finance,4,350,55
+104,Arjun,Support,0.5,250,91
+105,Priya,Engineering,2.5,320,68

@@ -1,0 +1,6 @@
+task_id,employee_id,task_name,delay_hours,penalty_rate,priority,sla_breach_risk
+T001,101,Client Report,2,400,High,Yes
+T002,102,Invoice Validation,0,350,Medium,No
+T003,103,Monthly Close,3,500,High,Yes
+T004,104,Ticket Resolution,0.5,300,Medium,No
+T005,105,Data Pipeline Fix,1.5,450,High,Yes
