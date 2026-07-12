@@ -38,5 +38,4 @@ def generate_actions(idle_loss, delay_loss, tool_waste):
 
     if tool_waste > 0:
         actions.append("Deactivate unused licenses")
-
     return actions
