@@ -25,7 +25,6 @@ def calculate_costs(emp, tasks, tools):
 
     return idle_loss, delay_loss, tool_waste
 
-
 # ⚙️ Action Agent
 def generate_actions(idle_loss, delay_loss, tool_waste):
     actions = []
