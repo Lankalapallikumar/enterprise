@@ -13,7 +13,6 @@ def detect_issues(emp, tasks, tools):
 
     return issues
 
-
 # 💰 Cost Agent
 def calculate_costs(emp, tasks, tools):
     idle_loss = emp["idle_hours"] * emp["hourly_cost"]
