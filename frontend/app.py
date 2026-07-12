@@ -1,7 +1,6 @@
 import streamlit as st
 import requests
 import pandas as pd
-
 st.set_page_config(page_title="Enterprise AI", layout="wide", page_icon="💰")
 
 # HEADER
